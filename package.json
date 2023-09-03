@@ -13,7 +13,8 @@
   "dependencies": {
     "@cfworker/web": "^1.12.4",
     "cfworker-middleware-telegraf": "^2.0.1",
-    "telegraf": "^4.9.1"
+    "telegraf": "^4.9.1",
+    "wrangler": "^3.6.0"
   },
   "devDependencies": {
     "node-polyfill-webpack-plugin": "^2.0.1",
